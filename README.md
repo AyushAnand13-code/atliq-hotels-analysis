@@ -5,8 +5,8 @@ Perform end-to-end exploratory data analysis for the hospitality domain to deriv
 
 ## 🧰 Tech Stack
 - Python
-- Pandas, NumPy
-- Matplotlib
+- Pandas
+- Matplotlib (via pandas.plot)
 - Jupyter Notebook
 
 ## 📁 Datasets Used
